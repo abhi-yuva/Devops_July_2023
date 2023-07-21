@@ -1,7 +1,14 @@
 ## Git Commands
 - git add
+    - git add .
+    - git add -A
+
 - git status
 - git commit
 - git log 
 - git log --oneline
 - git show
+- git clean
+- git restore
+- git diff
+- git checkout
