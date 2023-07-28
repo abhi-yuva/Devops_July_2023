@@ -12,3 +12,8 @@
 - git restore
 - git diff
 - git checkout
+- git clone
+- git pull
+- git push
+- git branch
+- git reflog
