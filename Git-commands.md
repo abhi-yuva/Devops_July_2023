@@ -17,3 +17,8 @@
 - git push
 - git branch
 - git reflog
+- git rebase
+- git revert
+- git reset
+- git cherrypick
+- git stash
